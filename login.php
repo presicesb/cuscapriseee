@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <!-- saved from url=(0067)https://bancadigital.bancocuscatlan.com/banca-personas/inicio/login -->
 <html lang="es" data-critters-container="">
   
